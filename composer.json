@@ -1,5 +1,5 @@
 {
-    "name": "Update/laravel-paystack",
+    "name": "update/laravel-paystack",
     "description": "A Laravel Package for Paystack",
     "keywords": ["php","github", "laravel","Open Source","payments", "subscription", "paystack", "paystack.co","laravel 5", "laravel 6"],
     "license": "MIT",
@@ -22,12 +22,12 @@
     },
    "autoload": {
         "psr-4": {
-          "Update\\Paystack\\": "src/"
+          "Laravel\Update\\Paystack\\": "src/"
         }
    },
    "autoload-dev": {
         "psr-4": {
-            "Update\\Paystack\\Test\\": "tests"
+            "Laravel\Update\\Paystack\\Test\\": "tests"
         }
     },
     "scripts": {
