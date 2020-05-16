@@ -5,15 +5,10 @@
     "license": "MIT",
     "authors": [
       {
-        "name": "Update",
-        "email": "prosperotemuyiwa@gmail.com"
-      },
-      {
-        "name": "iamfunsho",
-        "email": "info@devfunsho.com"
+        "name": "Test",
+        "email": "test@gmail.com"
       }
    ],
-   "minimum-stability": "stable",
    "require": {
     "php": "5.4.*||5.5.*||5.6.*||5.7.*||5.8.*||^6.0||^7.0",
     "illuminate/support": "5.4.*||5.5.*||5.6.*||5.7.*||5.8.*||^6.0||^7.0",
