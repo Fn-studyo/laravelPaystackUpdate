@@ -22,12 +22,12 @@
     },
    "autoload": {
         "psr-4": {
-          "Laravel\Update\\Paystack\\": "src/"
+          "Laravel\\Update\\Paystack\\": "src/"
         }
    },
    "autoload-dev": {
         "psr-4": {
-            "Laravel\Update\\Paystack\\Test\\": "tests"
+            "Laravel\\Update\\Paystack\\Test\\": "tests"
         }
     },
     "scripts": {
